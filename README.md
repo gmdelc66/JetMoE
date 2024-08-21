@@ -63,8 +63,7 @@ To our surprise, despite the lower training cost and computation, JetMoE-8B perf
 To load the models, you need install this package:
 In ubuntu 24.04, open terminal Ctrl + Alt + T
 ```
-cd /
-cd Downloads
+cd ~/Downloads
 git clone https://github.com/myshell-ai/JetMoE.git
 cd JetMoE-main
 ```
